@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Lenovo/Desktop/Coding_Challenge/cmake-build-debug",
+  "command": "C:\\Users\\Lenovo\\AppData\\Local\\Programs\\CLion\\bin\\mingw\\bin\\g++.exe -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Coding_Challenge.dir\\main.cpp.obj -c C:\\Users\\Lenovo\\Desktop\\Coding_Challenge\\main.cpp",
+  "file": "C:/Users/Lenovo/Desktop/Coding_Challenge/main.cpp",
+  "output": "C:/Users/Lenovo/Desktop/Coding_Challenge/cmake-build-debug/CMakeFiles/Coding_Challenge.dir/main.cpp.obj"
+}
+]
